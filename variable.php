@@ -4,6 +4,8 @@
 //"yamada"が変数に格納される値
 $name = "yamada";
 
+echo $name
+
 ?>
 
 <?php
