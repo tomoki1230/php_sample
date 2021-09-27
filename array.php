@@ -13,3 +13,16 @@ $ages = [22, 34, 12, 45];
 echo $ages[2];
 
 ?>
+
+<?php
+
+$fruits = [
+    "banana" => "バナナ",
+    "apple" => "りんご",
+    "orange" => "オレンジ",
+    "grape" => "ぶどう"
+];
+
+echo $fruits["apple"];
+
+?>
